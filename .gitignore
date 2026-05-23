@@ -1,0 +1,50 @@
+# Large binary files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Models and weights
+models/
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Output
+out/
+output/
+temp/
+tmp/
+
+# Large cloned repos
+Pixelle-Video/
+remotion-studio/
+Wav2Lip-master/
+Wav2Lip/
+ViralMint/
+igedits/
+video-use/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

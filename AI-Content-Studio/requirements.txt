@@ -1,0 +1,11 @@
+customtkinter
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+pydub
+openai-whisper
+pysubs2
+google-generativeai
+google-cloud-aiplatform
+pillow
