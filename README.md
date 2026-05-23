@@ -221,6 +221,7 @@ python pipeline_douyin.py             # 竖屏 + 热门话题 + 抖音发布
 | `video_compositor.py` | 视频合成 |
 | `animator.py` | 动画特效 |
 | `vfx_artist.py` | 视觉特效 |
+| `post_produce.py` | 后期合成：视频拼接 + ASS字幕烧录 + 音轨合成 → 桌面 final.mp4 |
 | `publisher.py` | 一键发布多平台 |
 
 ### 剪映 MCP 服务
